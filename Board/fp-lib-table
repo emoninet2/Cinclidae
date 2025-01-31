@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Cinclidae")(type "KiCad")(uri "${KIPRJMOD}/Cinclidae.pretty")(options "")(descr ""))
+  (lib (name "Footprint")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprint")(options "")(descr ""))
+)
